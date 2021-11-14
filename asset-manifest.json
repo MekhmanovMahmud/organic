@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MekhmanovMahmud.github.io/organic/static/css/main.20a7b060.chunk.css",
+    "main.js": "/MekhmanovMahmud.github.io/organic/static/js/main.af488644.chunk.js",
+    "main.js.map": "/MekhmanovMahmud.github.io/organic/static/js/main.af488644.chunk.js.map",
+    "runtime-main.js": "/MekhmanovMahmud.github.io/organic/static/js/runtime-main.5717e623.js",
+    "runtime-main.js.map": "/MekhmanovMahmud.github.io/organic/static/js/runtime-main.5717e623.js.map",
+    "static/js/2.39a62dfb.chunk.js": "/MekhmanovMahmud.github.io/organic/static/js/2.39a62dfb.chunk.js",
+    "static/js/2.39a62dfb.chunk.js.map": "/MekhmanovMahmud.github.io/organic/static/js/2.39a62dfb.chunk.js.map",
+    "static/js/3.e3170522.chunk.js": "/MekhmanovMahmud.github.io/organic/static/js/3.e3170522.chunk.js",
+    "static/js/3.e3170522.chunk.js.map": "/MekhmanovMahmud.github.io/organic/static/js/3.e3170522.chunk.js.map",
+    "index.html": "/MekhmanovMahmud.github.io/organic/index.html",
+    "static/css/main.20a7b060.chunk.css.map": "/MekhmanovMahmud.github.io/organic/static/css/main.20a7b060.chunk.css.map",
+    "static/js/2.39a62dfb.chunk.js.LICENSE.txt": "/MekhmanovMahmud.github.io/organic/static/js/2.39a62dfb.chunk.js.LICENSE.txt",
+    "static/media/organic-about-1.00654a0f.png": "/MekhmanovMahmud.github.io/organic/static/media/organic-about-1.00654a0f.png",
+    "static/media/index.css": "/MekhmanovMahmud.github.io/organic/static/media/organic-slider.f6cdc2bf.png",
+    "static/media/organic-pattern-1.8009570c.png": "/MekhmanovMahmud.github.io/organic/static/media/organic-pattern-1.8009570c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5717e623.js",
+    "static/js/2.39a62dfb.chunk.js",
+    "static/css/main.20a7b060.chunk.css",
+    "static/js/main.af488644.chunk.js"
+  ]
+}
